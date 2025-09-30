@@ -42,7 +42,7 @@ This application uses Bluetooth technology to connect the worker’s smartphone 
 
 ##  Natural Language Interaction:
 
-- Integrates Gemini for supervisor-friendly explanations and voice alerts.
+- Integrates Gemini for supervisor-friendly explanations and alerts.
 - Enables intuitive interaction with AI decisions and health summaries.
 
 ## Installation:
