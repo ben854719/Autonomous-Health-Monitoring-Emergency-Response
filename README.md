@@ -47,4 +47,18 @@ This application uses Bluetooth technology to connect the worker’s smartphone 
 
 ## Installation:
 
+## Prerequistes:
+
+- Python
+- PyTorch
+- Bluetooth
+- Numpy
+- Matplotlib
+- PySyft
+- LangGraph
+- Gemini
+- Agentic AI
+- Socket-IO
+- MCP Server
+
 
