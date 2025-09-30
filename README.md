@@ -38,7 +38,7 @@ This application uses Bluetooth technology to connect the worker’s smartphone 
 ## Secure Communication & Control:
 
 - Uses Socket for real-time bidirectional updates.
-- Centralized coordination via MCP Server for policy enforcement and alert routing.
+- Centralized coordination via MCP Server.
 
 ##  Natural Language Interaction:
 
