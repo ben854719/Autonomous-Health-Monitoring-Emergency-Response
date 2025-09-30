@@ -37,7 +37,7 @@ This application uses Bluetooth technology to connect the worker’s smartphone 
 
 ## Secure Communication & Control:
 
-- Uses Socket.io for real-time bidirectional updates.
+- Uses Socket for real-time bidirectional updates.
 - Centralized coordination via MCP Server for policy enforcement and alert routing.
 
 ##  Natural Language Interaction:
@@ -51,6 +51,7 @@ This application uses Bluetooth technology to connect the worker’s smartphone 
 
 - Python
 - PyTorch
+- Pandas
 - Bluetooth
 - Numpy
 - Matplotlib
@@ -58,7 +59,69 @@ This application uses Bluetooth technology to connect the worker’s smartphone 
 - LangGraph
 - Gemini
 - Agentic AI
-- Socket-IO
+- Socket Server
 - MCP Server
 
+## Python: Required all Major Components.
+
+- PyTorch
+- Matplotlib
+- Numpy
+- Pandas
+
+## Bluetooth Requirement:
+
+- Smartphone: Android or iOS with Bluetooth.
+- Laptop (Windows/IOS).
+
+## Socket Requirement:
+
+- Useful for sending sensor data between the smartphone and the laptop over Wi-Fi.
+
+## PySyft Requirement:
+
+- Enable privacy-preserving machine learning by simulating secure data domains, encrypted tensor sharing, and federated workflows.
+- Perfect for biometric authentication systems.
+
+## Agentic AI Configuration (with MCP Server Installation):
+
+## API Credentials:
+
+Register and obtain your Gemini API key from Google AI Studio.
+Store the key securely in a .env file to protect sensitive credentials.
+  
+##  LangGraph Workflow: Emergency Protocol & 911 Escalation:
+
+## This flow enables agentic AI:
+
+- Monitor multimodal inputs.
+- Detect emergencies based on thresholds or anomaly patterns.
+- Recommend context-aware actions.
+- Automatically initiate a 911 response with location and incident metadata.
+
+## Normalize:
+
+- Clean and standardize the input text.
+
+## Detect:
+
+- Identifies user intent.
+- Detects input language for routine or fallback.
+- Enables smart branching in LangGraph.
+
+## Fallback:
+
+- Input is malformed or ambiguous.
+- Language or intent cannot be confidently detected.
+- Emergency detection fails or yields uncertain results.
+- Location or escalation services are unavailable.
+
+## Output:
+
+- Deliver the final result of the emergency detection flow.
+- including incident metadata, recommended actions, and escalation status.
+
+## Data Referral:
+
+  
 
