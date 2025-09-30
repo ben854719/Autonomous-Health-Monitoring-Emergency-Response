@@ -49,6 +49,7 @@ This application uses Bluetooth technology to connect the worker’s smartphone 
 
 ## Prerequistes:
 
+- Cryptography
 - Python
 - PyTorch
 - Pandas
@@ -61,9 +62,12 @@ This application uses Bluetooth technology to connect the worker’s smartphone 
 - Agentic AI
 - Socket Server
 - MCP Server
+- TCP
+- Tenseal
 
 ## Python: Required all Major Components.
 
+- Cryptography
 - PyTorch
 - Matplotlib
 - Numpy
