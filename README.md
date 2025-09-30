@@ -91,8 +91,8 @@ This application uses Bluetooth technology to connect the worker’s smartphone 
 
 ## API Credentials:
 
-Register and obtain your Gemini API key from Google AI Studio.
-Store the key securely in a .env file to protect sensitive credentials.
+- Register and obtain your Gemini API key from Google AI Studio.
+- Store the key securely in a .env file to protect sensitive credentials.
   
 ##  LangGraph Workflow: Emergency Protocol & 911 Escalation:
 
