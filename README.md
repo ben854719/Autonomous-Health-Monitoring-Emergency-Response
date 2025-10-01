@@ -143,7 +143,7 @@ This application uses Bluetooth technology to connect the worker’s smartphone 
 - Links: https://www.ottawapolice.ca/en/who-we-are/emergency-services-unit.aspx
 
 - Dataset title: Zacconi (google maps)
-- Link:https://www.google.com/maps/dir//Zacconi+Contracting
+- Link:  https://www.google.com/maps/dir//Zacconi+Contracting
 
   
 
