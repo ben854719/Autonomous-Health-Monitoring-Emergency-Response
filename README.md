@@ -130,20 +130,15 @@ This application uses Bluetooth technology to connect the worker’s smartphone 
 - Dataset title: Occupational Health and Safety work fatality and critical injury counts report.
 - Links: https://open.canada.ca/data/en/dataset/f3e63186-8401-4c9e-a490-1f9e7d7eb00b
 
-- Dataset title: Critical Injuries - what to do in the first few hours.
-- Links: https://www.wsps.ca/resource-hub/inspections-and-investigations/critical-injuries-what-to-do-in-the-first-few-hours
-
 - Dataset title: CCOHS
 - Links: https://www.ccohs.ca/oshanswers/legisl/legislation/injury_reporting.html
 
-- Dataset title: Emergency Preparedness
-- Link: https://ottawa.ca/en/health-and-public-safety/emergency-preparedness
+- Dataset title: Ontario Beginning Construction of Highway 413
+- Link: https://news.ontario.ca/en/release/1006370/ontario-beginning-construction-of-highway-413
 
-- Dataset title: Ottawa Police
-- Links: https://www.ottawapolice.ca/en/who-we-are/emergency-services-unit.aspx
+- Dataset title: Ontario Provincial Police
+- Links: ttps://www.opp.ca/index.php?id=125
 
-- Dataset title: Zacconi (google maps)
-- Link:  https://www.google.com/maps/dir//Zacconi+Contracting
 
   
 
