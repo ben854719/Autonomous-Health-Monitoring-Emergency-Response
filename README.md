@@ -53,7 +53,7 @@ This application uses Bluetooth technology to connect the worker’s smartphone 
 - Python
 - PyTorch
 - Pandas
-- Bluetooth
+- Bluetooth-enabled smartphone and laptop
 - Numpy
 - Matplotlib
 - PySyft
