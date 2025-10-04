@@ -55,6 +55,7 @@ This application uses Bluetooth technology to connect the worker’s smartphone 
 - Pandas
 - Bluetooth-enabled smartphone and laptop
 - Numpy
+- NLTK
 - Matplotlib
 - PySyft
 - LangGraph
@@ -72,6 +73,7 @@ This application uses Bluetooth technology to connect the worker’s smartphone 
 - Matplotlib
 - Numpy
 - Pandas
+- NLTK
 
 ## Bluetooth Requirement:
 
