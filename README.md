@@ -6,6 +6,7 @@ This application uses Bluetooth technology to connect the worker’s smartphone 
 
 ## Video of the project:
 
+[YouTube](https://youtu.be/bpwXIqEOBk4)
 
 ## Features:
 
